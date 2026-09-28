@@ -1,0 +1,6 @@
+{
+  "name": "PipChat",
+  "description": "PipChat - AI Technical Analysis & Signal Assistant for Forex and Gold",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

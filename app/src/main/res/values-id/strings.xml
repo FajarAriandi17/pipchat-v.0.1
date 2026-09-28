@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">PipChat</string>
+    <string name="greeting">Mau analisa apa hari ini?</string>
+    <string name="greeting_sub">Tanyakan analisa teknikal pair forex atau emas (XAUUSD)</string>
+    <string name="input_hint">Ketik permintaan (mis. Analisa EURUSD H1)…</string>
+    <string name="send">Kirim</string>
+    <string name="stop">Berhenti</string>
+    <string name="new_chat">Chat Baru</string>
+    <string name="history">Riwayat Percakapan</string>
+    <string name="view_chart">Lihat Chart</string>
+    <string name="copy">Salin</string>
+    <string name="copied">Disalin ke papan klip</string>
+    <string name="entry">Entry</string>
+    <string name="stop_loss">Stop Loss</string>
+    <string name="take_profit_1">TP1 · 1:1,5</string>
+    <string name="take_profit_2">TP2 · 1:2,0</string>
+    <string name="support">Support</string>
+    <string name="resistance">Resistance</string>
+    <string name="confidence">Keyakinan</string>
+    <string name="no_setup">Belum ada setup yang jelas</string>
+    <string name="disclaimer">Bukan saran keuangan. Trading berisiko kehilangan modal.</string>
+    <string name="disclaimer_full">PipChat adalah alat analisa teknikal AI. Semua analisa, level, dan sinyal disediakan hanya untuk tujuan edukasi dan informasi. Trading forex dan CFD memiliki risiko kerugian modal yang tinggi.</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="offline">Tidak ada koneksi internet</string>
+    <string name="daily_limit">Batas harian tercapai, silakan coba lagi besok</string>
+    <string name="settings">Pengaturan</string>
+    <string name="language">Bahasa</string>
+    <string name="theme">Tema</string>
+    <string name="trading_style">Gaya Trading</string>
+    <string name="risk_per_trade">Risiko per Trade</string>
+    <string name="logout">Keluar</string>
+    <string name="delete_account">Hapus Akun</string>
+    <string name="clear_history">Hapus Riwayat</string>
+</resources>

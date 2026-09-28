@@ -1,0 +1,80 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Speech Bubble Body with Tail in PipGold #E9B44C -->
+    <!-- Bubble rect: x: 16, y: 20, width: 68, height: 48, rx: 16 -->
+    <!-- Tail: from (28, 68) to (24, 82) to (44, 68) -->
+    <path
+        android:fillColor="#E9B44C"
+        android:pathData="M 32,20
+                          L 68,20
+                          A 16,16 0 0,1 84,36
+                          L 84,52
+                          A 16,16 0 0,1 68,68
+                          L 44,68
+                          L 24,84
+                          L 28,68
+                          L 32,68
+                          A 16,16 0 0,1 16,52
+                          L 16,36
+                          A 16,16 0 0,1 32,20
+                          Z" />
+
+    <!-- Candle 1 (Left, Dark Navy #182233) -->
+    <!-- Wick 1 -->
+    <path
+        android:fillColor="#182233"
+        android:pathData="M 34.5,35 H 37.5 V 59 H 34.5 Z" />
+    <!-- Body 1 -->
+    <path
+        android:fillColor="#182233"
+        android:pathData="M 33,40.5
+                          A 2,2 0 0,1 35,38.5
+                          H 37
+                          A 2,2 0 0,1 39,40.5
+                          V 52.5
+                          A 2,2 0 0,1 37,54.5
+                          H 35
+                          A 2,2 0 0,1 33,52.5
+                          Z" />
+
+    <!-- Candle 2 (Middle, Dark Navy #182233) -->
+    <!-- Wick 2 -->
+    <path
+        android:fillColor="#182233"
+        android:pathData="M 48.5,31 H 51.5 V 56 H 48.5 Z" />
+    <!-- Body 2 -->
+    <path
+        android:fillColor="#182233"
+        android:pathData="M 47,36.5
+                          A 2,2 0 0,1 49,34.5
+                          H 51
+                          A 2,2 0 0,1 53,36.5
+                          V 49.5
+                          A 2,2 0 0,1 51,51.5
+                          H 49
+                          A 2,2 0 0,1 47,49.5
+                          Z" />
+
+    <!-- Candle 3 (Right, Buy Green #2BB673) -->
+    <!-- Wick 3 (Navy wick) -->
+    <path
+        android:fillColor="#182233"
+        android:pathData="M 62.5,27 H 65.5 V 52 H 62.5 Z" />
+    <!-- Body 3 (Green body) -->
+    <path
+        android:fillColor="#2BB673"
+        android:pathData="M 61,31.5
+                          A 2,2 0 0,1 63,29.5
+                          H 65
+                          A 2,2 0 0,1 67,29.5
+                          V 44.5
+                          A 2,2 0 0,1 65,46.5
+                          H 63
+                          A 2,2 0 0,1 61,44.5
+                          Z" />
+
+</vector>
