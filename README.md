@@ -70,28 +70,5 @@ Repositori ini telah dilengkapi alur kerja otomasi **GitHub Actions** (`.github/
 
 ---
 
-## 🛠️ Struktur Direktori Proyek
-
-```
-pipchat/
-├── .github/
-│   └── workflows/
-│       └── build-apk.yml        # CI/CD otomatisasi build & release APK
-├── app/
-│   ├── src/main/java/com/example/
-│   │   ├── data/                 # AI Analyst, Room DB, Repositori Pasar & Auth
-│   │   ├── model/                # Data model (SignalCard, Candle, UserProfile)
-│   │   └── ui/                   # Jetpack Compose Screens, Canvas, & Theming
-│   └── src/main/res/             # Vector icons, string localization (ID/EN)
-├── backend/                      # Service FastAPI untuk deploy ke Google Cloud Run
-│   ├── Dockerfile
-│   ├── deploy.sh
-│   └── cloudbuild.yaml
-├── gradlew                       # Gradle wrapper executable
-└── gradle/wrapper/               # Gradle wrapper runtime binaries
-```
-
----
-
 ## 📄 Lisensi
 Hak Cipta © 2026 M FAJAR ARIANDI. Dibuat dengan Google AI Studio.
